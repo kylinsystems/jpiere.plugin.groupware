@@ -1,10 +1,10 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: jpiere.plugin.groupware
-Bundle-SymbolicName: jpiere.plugin.groupware;singleton:=true
+Bundle-Name: KBS Plugin : JPiere Groupware
+Bundle-SymbolicName: com.kylinsystems.kbs.plugins.jpiere.groupware;singleton:=true
 Bundle-Version: 7.1.0.qualifier
-Bundle-Vendor: OSS ERP Solutions
-Automatic-Module-Name: jpiere.plugin.groupware
+Bundle-Vendor: KSYS
+Automatic-Module-Name: com.kylinsystems.kbs.plugins.jpiere.groupware
 Bundle-RequiredExecutionEnvironment: JavaSE-11
 Require-Bundle: org.adempiere.base;bundle-version="7.1.0",
  org.adempiere.ui.zk;bundle-version="7.1.0",
